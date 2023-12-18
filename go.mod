@@ -40,9 +40,9 @@ require (
 	github.com/stretchr/objx v0.1.1 // indirect
 	github.com/stretchr/testify v1.2.2
 	github.com/xanzy/ssh-agent v0.2.0 // indirect
-	golang.org/x/crypto v0.0.0-20190308221718-c2843e01d9a2
+	golang.org/x/crypto v0.17.0
 	golang.org/x/oauth2 v0.0.0-20180821212333-d2e6202438be
-	golang.org/x/tools v0.0.0-20190312151545-0bb0c0a6e846
+	golang.org/x/tools v0.6.0
 	gonum.org/v1/netlib v0.0.0-20191031114514-eccb95939662 // indirect
 	gopkg.in/neurosnap/sentences.v1 v1.0.6 // indirect
 	gopkg.in/russross/blackfriday.v2 v2.0.0 // indirect
